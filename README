@@ -1,0 +1,9 @@
+Capacity estimation of retired LiBs
+
+- AOC23: 23 Ah
+- AOC15: 15.5 Ah
+
+Please unzip the "raw_data.zip" file before run the code.
+Requirements: pandas, numpy, tqdm, pytorch.
+
+Note: The "raw_data.zip" file will be uploaded after the paper is accepted.
