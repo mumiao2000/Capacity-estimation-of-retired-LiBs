@@ -6,4 +6,4 @@ Capacity estimation of retired LiBs
 Please unzip the "raw_data.zip" file before run the code.
 Requirements: pandas, numpy, tqdm, pytorch.
 
-Note: The "raw_data.zip" file will be uploaded after the paper is accepted.
+Note: The FULL "raw_data.zip" file will be uploaded after the paper is accepted.
